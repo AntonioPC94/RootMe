@@ -13,7 +13,7 @@ Como se observa en la imagen anterior, existen varios servicios que nos pueden i
 - Puerto 22 (SSH)
 - Puerto 80 (SSH)
 
-Enumeración: Puerto 80
+# Enumeración: Puerto 80
 
 Si accedemos a la página expuesta por el sistema objetivo, podremos observar lo siguiente:
 
